@@ -23,7 +23,7 @@
     }
     .search-container .actions {
         display: flex;
-        gap:10px;
+        gap:8px;
     }
 }
 @media screen and (min-width:250px) and (max-width:350px) {
