@@ -18,12 +18,12 @@
         flex-direction:row;
         align-items:center;
         padding:3px 7px;
-        width:345px;
+        width:330px;
         margin: 100px auto;
     }
     .search-container .actions {
         display: flex;
-        gap:8px;
+        gap:3px;
     }
 }
 @media screen and (min-width:250px) and (max-width:350px) {
